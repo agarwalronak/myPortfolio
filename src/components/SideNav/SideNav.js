@@ -13,8 +13,13 @@ export const Sidenav = ({ handleSectionClick }) => {
             <p className="subtitle">An MBA aspirant</p>
             <div className="sections-list">
                 <p className="section-list-element" onClick={() => handleSectionClick("about")}>About Me</p>
+                <p className="section-list-element" onClick={() => handleSectionClick("educations")}>Education</p>
                 <p className="section-list-element" onClick={() => handleSectionClick("skills")}>Skills</p>
+                <p className="section-list-element" onClick={() => handleSectionClick("pors")}>Positions of Responsibility</p>
+                <p className="section-list-element" onClick={() => handleSectionClick("certificates")}>Certificates</p>
+                <p className="section-list-element" onClick={() => handleSectionClick("volunteers")}>Social Work</p>
                 <p className="section-list-element" onClick={() => handleSectionClick("projects")}>Projects</p>
+                <p className="section-list-element" onClick={() => handleSectionClick("contacts")}>Contact Me</p>
             </div>
         </div>
     )

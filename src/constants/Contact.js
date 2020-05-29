@@ -1,4 +1,4 @@
-export const contact = {
+export const contacts = {
     heading: "Contact Details",
     contactList: [
         {
@@ -12,7 +12,7 @@ export const contact = {
             details: "103, Girish Ghosh Road, Belurmath,\nSitala Apartment Flat - 203 \nHowrah - 711202, West Bengal, India"
         }, {
             name: "LinkedIn",
-            details: "...."
+            details: "https://www.linkedin.com/in/ronak-agarwal-91181a169"
         }
     ]
 };

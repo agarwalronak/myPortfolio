@@ -1,7 +1,6 @@
-export const positions = {
+export const pors = {
     heading: "Positions of Responsibility",
-    quote: "",
-    positionsList = [
+    positionsList: [
         {
             name: "Vice - President",
             event: "Technovation, 2019",

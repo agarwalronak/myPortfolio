@@ -1,7 +1,6 @@
-export const education = {
-    heading: "Academic",
-    quote: "....",
-    detailsList: [
+export const educations = {
+    heading: "Academic Details",
+    educationList: [
         {
             name: "Heritage Institute of Technology",
             description: "Bachelor of Technology, Information Technology",
@@ -15,7 +14,7 @@ export const education = {
         }, {
             name: "M.C.Kejriwal Vidyapeeth",
             description: "Secondary",
-            year: "2015 - 2017",
+            year: "2003 - 2015",
             grade: "86.33%"
         }
     ]
