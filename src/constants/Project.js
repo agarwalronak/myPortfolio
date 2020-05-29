@@ -5,7 +5,7 @@ export const projects = {
         {
             name: "My Portfolio",
             description: "React app using CSS",
-            link: "http://agarwalronak.me/portfolio"
+            link: "https://agarwalronak.github.io/myPortfolio"
         }, {
             name: "The Lifestyle Store",
             description: "E-commerce website",
